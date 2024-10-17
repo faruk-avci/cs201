@@ -4,7 +4,7 @@
 
 This project implements a **Single Linked List** data structure in C++. It includes functionality for inserting, deleting, merging, searching, and counting nodes in the list. The project is organized into separate directories for better structure and maintainability.
 
-**Course**: Ozyegin University CS201  
+**Course**: Ozyegin University CS201 (Introduction to Data Structures and Algorithms with C++ and Java)
 **Instructor**: Olcay Taner Yıldız
 
 ## Features
@@ -19,4 +19,3 @@ This project implements a **Single Linked List** data structure in C++. It inclu
 ## License
 
 This project is open-source and available for educational purposes. Feel free to use and modify it as you see fit.
-
